@@ -3,7 +3,7 @@ CSV converter to HTML and PDF made in NodeJs
 
 ## Install
 ```
-npm ci
+npm install
 ```
 ## How To Use
 ```
